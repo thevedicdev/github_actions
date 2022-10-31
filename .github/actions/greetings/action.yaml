@@ -1,0 +1,13 @@
+name: Greetings
+author: thevedicdev
+description: Greet the user
+inputs:
+  what-to-greet:
+    description: What you want to greet?
+    required: true
+    default: "Hello 👋"
+  whom-to-greet:
+    description: Whom you want to greet?
+    required: true
+    default: "The Vedic Developer"
+  
